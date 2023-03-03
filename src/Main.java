@@ -3,6 +3,6 @@ public class Main {
        long balance = 2_000_000_000;
        long transfer = 500_000_000;
        long total = balance + transfer;
-        System.out.println(total);
+       System.out.println(total);
     }
 }
